@@ -1,9 +1,6 @@
 def main():
-    
-    # def main():
-    # print('Hello World')
-    # print('CS122: Programming and Algorithms in Python')
+    print('Hello World')
+    print('CS V11: Programming Fundamentals')
 
-    # Add an indented block of code here
+if __name__ == '__main__':
     main()
-b
